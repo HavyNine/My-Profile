@@ -5,7 +5,7 @@
 ## About Me :
 
 - 🏢 I am currently working as a **Jr Product Analyst** at [Fëng Brasil](https://www.linkedin.com/company/feng-brasil/mycompany/)
-- 🏢 Graduation in progress in **Mechanial Engineer** at [CEFET-RJ](https://www.ilabs.lk/](http://www.cefet-rj.br/index.php)
+- 🏢 Graduation in progress in **Mechanial Engineer** at [CEFET-RJ](http://www.cefet-rj.br/index.php)
 - 🎓 Data Scientist by [VAI Academy](https://www.vai.academy/)
 - 🏡'Lives in **Rio de Janeiro**
 - ⚡ **Fun Facts** : 🍕 🏏 🎥 🚞

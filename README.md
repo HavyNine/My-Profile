@@ -6,9 +6,14 @@
 
 - 🏢 I am currently working as a **Jr Product Analyst** at [Fëng Brasil](https://www.linkedin.com/company/feng-brasil/mycompany/)
 - 🏢 Graduation in progress in **Mechanial Engineer** at [CEFET-RJ](http://www.cefet-rj.br/index.php)
+- 🏢 Studing for AWS Cloud Practitioner Certificate.
+- 🎓 Advanced English by Wizard School 
 - 🎓 Data Scientist by [VAI Academy](https://www.vai.academy/)
 - 🏡'Lives in **Rio de Janeiro**
-- ⚡ **Fun Facts** : 🍕 🏏 🎥 🚞
+- 🎓 Intermediate knowledge in **SQL**, **Python** and **Pentaho**. Basic knowledge of **Power BI**.
+- 🎓 I have basic knowledge of developing web and mobile systems using **Node.js, Rest API, Express, MongoDB, Sequelize, Mongoose, HTML, CSS, Redux, ReactJs technologies**.
+- ⚡ **Fun Facts** : I love economics, aerospace development and related subjects💸📈💻🛰️
+- 🎧 Sound design technician, music lover and bassist in his spare time - without music, life is boring 🎼🎧🎸
 
 <br>
 
